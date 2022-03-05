@@ -13,7 +13,7 @@
 > Timer Interface running in a Mobile Screen/ Interface do Timer(Relógio) funcionando em um dispositivo móvel.
 
 ### Click at link below to see it working! / Clique no link abaixo para vê-lo funcionando!
-<!-- <a href="https://yurimayk.github.io/Calculator/">Clique aqui!</a> -->
+<a href="https://yurimayk.github.io/Timer-Relogio/">Clique aqui!</a>
 
 ### Project steps/Etapas do Projeto
 
@@ -25,7 +25,7 @@ O projeto ainda está em desenvolvimento. Abaixo estão as definições atuais d
 - [x] Create CSS/Estilização com CSS;
 - [x] Improve responsiveness/Aprimorar responsividade;
 - [x] Add JavaScript/Adicionar JavaScript;
-- [ ] Make the project available online/Disponibilizar o projeto, online;
+- [x] Make the project available online/Disponibilizar o projeto, online;
 - [ ] Add Functions.
 
 
